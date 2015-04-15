@@ -1,1 +1,1 @@
-This is a little find and replace app website.
+This is a Sinatra web app written by Ron Park and Gabe Finch during the first week of Epicodus bootcamp.  It takes three inputs (text, find, & replace) and replces all found instances of 'find' in 'text' with the contents of 'replace'.  It utilizes the string split and array join methods. The method has test coverage using Rspec.
